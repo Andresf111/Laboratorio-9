@@ -41,6 +41,16 @@ resultados.
 
 5.VIDEO
 
-https://youtu.be/vhAKCPvYKJM
+
+6.CONCLUSIONES
+
+Dentro de las dos formas de transformación que pueden ocurrir para los números complejos se encuentran la forma rectangular-polar y polar-rectangular. Entre estas dos formas siempre va a ser más factible transformar de polar a rectangular porque así con las coordenadas rectangulares se nos facilita mejor algunos cálculos.
+
+Los números complejos dentro de los fasores son importantes dado que, un fasor es un número complejo que representa la magnitud y la fase de una senoide. Es importante mencionar que los circuitos de voltaje y corriente alterna son excitados por fuentes senoidales. Una senoide es una señal que tiene la forma de la función seno o coseno. Y por lo tanto tenemos los cambios o transformaciones para calcular voltaje y corrientes con sus respectivos números complejos y representaciones.
+
+7.BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
+
 
 
