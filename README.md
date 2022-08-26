@@ -23,3 +23,12 @@ Identificar que utilidad tiene los números complejos dentro del trabajo con fas
 Material y Equipo Requerido
 
 ![image](https://user-images.githubusercontent.com/105291794/186761154-a215932c-8036-4b05-a9bf-a419c72a68b4.png)
+
+PROCEDIMIENTO
+
+![image](https://user-images.githubusercontent.com/105386939/186806131-4528361d-5ead-4c57-a83d-9d93bea1af04.png)
+
+![image](https://user-images.githubusercontent.com/105386939/186806227-5bebff9f-457d-436e-95e7-248b8d02c2b2.png)
+
+![image](https://user-images.githubusercontent.com/105386939/186807113-53ec7913-97fb-44d9-b47a-13f0ebf08f2f.png)
+
