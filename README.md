@@ -32,3 +32,13 @@ PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/105386939/186807113-53ec7913-97fb-44d9-b47a-13f0ebf08f2f.png)
 
+9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.
+
+![image](https://user-images.githubusercontent.com/105386939/186811309-8aaf3000-4425-43b7-8b1a-4936b0443ea8.png)
+
+![image](https://user-images.githubusercontent.com/105386939/186811866-7ca5190b-e942-4743-8110-d8e6fde53af8.png)
+
+5.VIDEO
+
+
